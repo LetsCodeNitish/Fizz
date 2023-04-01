@@ -12,6 +12,9 @@ void FizzBuzz(int s){
     if(s%3 && s%4){
         cout<<"FizzBuzz";
     }
+    else{
+        cout<<"s";
+    }
 
     return;
 
